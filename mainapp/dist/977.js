@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp2=self.webpackChunkapp2||[]).push([[977],{977:(e,s,a)=>{a.r(s),a.d(s,{default:()=>u,listenMessage:()=>t,sendMessage:()=>n});const p=new(a(863).Subject),n=(e,s)=>{p.next({eventType:e,payload:s})},t=(e,s)=>p.subscribe((({eventType:a,payload:p})=>{a===e&&s(p)})),u=p}}]);
